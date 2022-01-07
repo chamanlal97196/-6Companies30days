@@ -29,16 +29,30 @@ Day 6-10 :
 Company Name : Amazon
  1. Calculating Maximum Profit (Multiple Ladders Question) Link
  2. Longest Mountain Link
- 3. 3.IPL 2021 - Match Day 2 (similar to maximum in subarray) Link
+
+
+ 3.IPL 2021 - Match Day 2 (similar to maximum in subarray) Link
+ 
  4.Brackets in Matrix Chain Multiplication Link
+ 
  5.Phone directory (Question similar to this based on Amazon Pay as a service) Link
+ 
  6.Maximum of all subarrays of size k Link
+ 
  7.First non-repeating character in a stream Link
+ 
  8.Count ways to N'th Stair(Order does not matter) Link
+ 
  9.Which among them forms a perfect Sudoku Pattern ? Link
+ 
  10.Nuts and Bolts Problem Link
+ 
  11.Tree Serialization and Deserialization Link
+ 
  12.Column name from a given column number Link
+ 
  13.Rotten Oranges -Multiple Repetitions Link
+ 
  14.Tree Burning Link
+ 
  15. Delete N nodes after M nodes of a linked list Link
